@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Profile</title>
+</head>
+
+<body>
+    <h1>Hello! I am Rakesh</h1>
+    <h2>M.Tech CSE Student</h2>
+
+    <p>Welcome to my first GitHub project!</p>
+
+    <h3>My Skills</h3>
+    <ul>
+        <li>C Programming</li>
+        <li>Python</li>
+        <li>Cybersecurity</li>
+    </ul>
+</body>
+</html>
